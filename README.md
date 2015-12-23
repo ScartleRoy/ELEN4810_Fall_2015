@@ -6,7 +6,7 @@ This project is about automatic singing transcription. The codes were written in
 
 We use the librosa library<sup>1</sup> for generating the chromagram. We use the pYIN Vamp plugin<sup>2</sup> for pitch tracking. To successfully run the code, you need to first install librosa and Vamp. For librosa, you can install it by PyPI
 ```
-pip install librosa
+  pip install librosa
 ```
   
 or   
