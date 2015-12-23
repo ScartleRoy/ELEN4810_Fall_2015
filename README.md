@@ -36,5 +36,6 @@ You can use your own recordings to test the algorithm.
 
 [1] Mauch M, Dixon S. pYIN: A fundamental frequency estimator using probabilistic threshold distributions[C]//Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014: 659-663.
 
-<sup>1</sup>https://github.com/bmcfee/librosa
+<sup>1</sup>https://github.com/bmcfee/librosa  
+
 <sup>2</sup>http://www.vamp-plugins.org/
