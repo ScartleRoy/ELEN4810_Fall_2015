@@ -29,12 +29,13 @@ To run the demo for our code, simple do
   evaluate_single('child1.wav') # evaluate a single .wav file  
 ```
 
-You can use your own recordings to test the algorithm.  
+You can use your own recordings to test the algorithm.  The dataset in wav folder are provided by the authors of [2]. It can also be found [here](http://www.atic.uma.es/ismir2014singing/).
 
 
 ----------------------------------------------------------------------------
 
-[1] Mauch M, Dixon S. pYIN: A fundamental frequency estimator using probabilistic threshold distributions[C]//Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014: 659-663.
+[1] Mauch M, Dixon S. pYIN: A fundamental frequency estimator using probabilistic threshold distributions[C]//Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014: 659-663.  
+[2] Molina E, Barbancho A M, Tardón L J, et al. Evaluation framework for automatic singing transcription[C]//Proceedings of the 15th International Society for Music Information Retrieval Conference (ISMIR 2014). 2014: 567-572.
 
 <sup>1</sup>https://github.com/bmcfee/librosa  
 
