@@ -4,7 +4,7 @@ The course project for ELEN4810 in 2015 Fall semester, Columbia University.
 ===========================================================================
 This project is about automatic singing transcription. The codes were written in Python.   
 
-We use the librosa library$asd^1$ for generating the chromagram. We use the pYIN Vamp plugin$asdf2$ for pitch tracking. To successfully run the code, you need to first install librosa and Vamp. For librosa, you can install it by PyPI
+We use the librosa library<sup>^1<\sup> for generating the chromagram. We use the pYIN Vamp plugin<sup>2<\sup> for pitch tracking. To successfully run the code, you need to first install librosa and Vamp. For librosa, you can install it by PyPI
 ```
 pip install librosa
 ```
@@ -36,5 +36,5 @@ You can use your own recordings to test the algorithm.
 
 [1] Mauch M, Dixon S. pYIN: A fundamental frequency estimator using probabilistic threshold distributions[C]//Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014: 659-663.
 
-$1$https://github.com/bmcfee/librosa
-$2$http://www.vamp-plugins.org/
+<sup>1<\sup>https://github.com/bmcfee/librosa
+<sup>2<\sup>http://www.vamp-plugins.org/
